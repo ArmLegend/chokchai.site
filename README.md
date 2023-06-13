@@ -1,2 +1,1 @@
-# chokchai.site
-My peronal website.
+# My Personal Website
